@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "name": "Premium Wireless Headphones",
+    "price": 299.99,
+    "description": "High-fidelity sound with noise-canceling technology and 30-hour battery life.",
+    "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=500&q=80",
+    "category": "Electronics"
+  },
+  {
+    "id": 2,
+    "name": "Smart Watch Series 7",
+    "price": 399.00,
+    "description": "Advanced health tracking, water-resistant, and seamless smartphone integration.",
+    "image": "https://images.unsplash.com/photo-1523275335684-37898b6baf30?w=500&q=80",
+    "category": "Wearables"
+  },
+  {
+    "id": 3,
+    "name": "Minimalist Leather Backpack",
+    "price": 125.50,
+    "description": "Handcrafted from genuine leather, durable, and stylish for daily commute.",
+    "image": "https://images.unsplash.com/photo-1548036328-c9fa89d128fa?w=500&q=80",
+    "category": "Accessories"
+  },
+  {
+    "id": 4,
+    "name": "Mechanical Gaming Keyboard",
+    "price": 159.99,
+    "description": "RGB backlit, tactile switches, and programmable keys for ultimate gaming.",
+    "image": "https://images.unsplash.com/photo-1511467687858-23d96c32e4ae?w=500&q=80",
+    "category": "Electronics"
+  },
+  {
+    "id": 5,
+    "name": "Ergonomic Office Chair",
+    "price": 249.00,
+    "description": "Adjustable lumbar support and breathable mesh for all-day comfort.",
+    "image": "https://images.unsplash.com/photo-1505843490701-5be5535560b3?w=500&q=80",
+    "category": "Furniture"
+  },
+  {
+    "id": 6,
+    "name": "Portable Bluetooth Speaker",
+    "price": 89.00,
+    "description": "Compact design, waterproof, and powerful bass for outdoor adventures.",
+    "image": "https://images.unsplash.com/photo-1608156639585-b3a032ef9689?w=500&q=80",
+    "category": "Electronics"
+  }
+]
